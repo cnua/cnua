@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cnua which is CONTINUA abbrevated
 - 👀 I’m interested in ... the turing machine
 - 🌱 I’m currently learning ... open source project cordination
-- 💞️ I’m looking to collaborate on ... Mancala
+- 💞️ I’m looking to collaborate using MSF
 - 📫 How to reach me ... cnua@hotmail.com
 
 <!---
